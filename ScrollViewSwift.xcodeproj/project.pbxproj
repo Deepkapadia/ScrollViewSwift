@@ -14,6 +14,7 @@
 		222D0AE61ED41D9D00654113 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222D0AE41ED41D9D00654113 /* LaunchScreen.storyboard */; };
 		222D0AF11ED41D9D00654113 /* ScrollViewSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D0AF01ED41D9D00654113 /* ScrollViewSwiftTests.swift */; };
 		222D0AFC1ED41D9D00654113 /* ScrollViewSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D0AFB1ED41D9D00654113 /* ScrollViewSwiftUITests.swift */; };
+		222D0B0A1ED4234D00654113 /* info.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 222D0B091ED4234D00654113 /* info.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		222D0AF71ED41D9D00654113 /* ScrollViewSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrollViewSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		222D0AFB1ED41D9D00654113 /* ScrollViewSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwiftUITests.swift; sourceTree = "<group>"; };
 		222D0AFD1ED41D9D00654113 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		222D0B091ED4234D00654113 /* info.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = info.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		222D0ACF1ED41D9C00654113 = {
 			isa = PBXGroup;
 			children = (
+				222D0B091ED4234D00654113 /* info.jpg */,
 				222D0ADA1ED41D9D00654113 /* ScrollViewSwift */,
 				222D0AEF1ED41D9D00654113 /* ScrollViewSwiftTests */,
 				222D0AFA1ED41D9D00654113 /* ScrollViewSwiftUITests */,
@@ -235,6 +238,7 @@
 				222D0AE61ED41D9D00654113 /* LaunchScreen.storyboard in Resources */,
 				222D0AE31ED41D9D00654113 /* Assets.xcassets in Resources */,
 				222D0AE11ED41D9D00654113 /* Main.storyboard in Resources */,
+				222D0B0A1ED4234D00654113 /* info.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
